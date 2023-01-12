@@ -1,3 +1,3 @@
 # AsGuard
 
-*A Step towrds containerizing🏗️ web3👀*
+*Next gen containerized🏗️ web3 infra👀*
